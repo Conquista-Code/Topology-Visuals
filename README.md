@@ -1,4 +1,4 @@
-# Standard Operating Procedure (SOP)
+# Topology and Visuals
 
 This repo contains the Visuals and Topologies presented to the CleanPower Company
 
