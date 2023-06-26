@@ -3,7 +3,7 @@
 This repo contains the Visuals and Topologies presented to the CleanPower Company
 
 ## Project Description
-This project involves creating a visual and topological representation of Conquista Code's organizational structure and processes to present to CleanPower, highlighting the key components, relationships, and workflows in a simplified and visually engaging manner.
+A topology created to present the process connection of the systems and their functions between the parent companies Globex's Virtual Private Cloud (VPC). Whom has embedded the Windows server, the active directory configurations as part of company policy for the operating system use. These configurations have been set for the the companies indivual Personal Computers (PC) whom as part of the integration is the CleanPower Company. The router/firewall provided is pfsense which will have a captive portal that enabled the user to authenticate on a webpage prior to accessing the internet.
 
 ## Conquista Code Team 
 
@@ -22,6 +22,7 @@ This project involves creating a visual and topological representation of Conqui
 
 
 ## Topology-Visuals
-
-
 [CleanPower Topology](Topofinal.drawio.png)
+
+## Topology Chart
+(Pending)
