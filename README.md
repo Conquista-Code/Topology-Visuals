@@ -24,4 +24,4 @@ This project involves creating a visual and topological representation of Conqui
 ## Topology-Visuals
 
 
-[CleanPower Topology](https://github.com/Conquista-Code/Topology-Visuals/blob/main/CleanPower_Topology.pdf)
+[CleanPower Topology](Topofinal.drawio.png)
