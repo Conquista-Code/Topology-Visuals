@@ -83,6 +83,10 @@ The network interfaces on the pfSense will be configured as follows:
 * LAN IP Address 192.168.1.1
 > Subnet 192.168.1.0/24
 
+## Captive Portal
+
+Captive portal a webpage which will require for the user to login with the appropriate credentials verified from the windows server Active directory. This is enabled through the pfsense router firewall configurations to allow the user to access the internet.
+
 ## End-user System 
 
 End-users are able to use the OS which fits their jobs duties; the network config can support access from a number of different operating systems. Most users are expected to use Windows 10. IP addresses for these systems will be dynamically assigned from the available pool of 192.168.1.50 - 192.168.1.150
