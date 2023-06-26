@@ -24,5 +24,5 @@ A topology created to present the process connection of the systems and their fu
 ## Topology-Visuals
 [CleanPower Topology](Topofinal.drawio.png)
 
-## Topology Chart
-(Pending)
+## Topology Write-Up
+[Network Write-Up](https://github.com/Conquista-Code/Topology-Visuals/blob/main/Network%20Write-Up.md)
